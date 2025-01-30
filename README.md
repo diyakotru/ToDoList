@@ -1,6 +1,5 @@
 # ToDoList
-A simple To-Do List web application built using HTML, CSS, and JavaScript. Here’s a description you can use for your GitHub repository:  
-
+A simple To-Do List web application built using HTML, CSS, and JavaScript. 
 ---
 ## ✨ Features  
 - 📌 Add and remove tasks effortlessly  
